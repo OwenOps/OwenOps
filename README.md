@@ -1,12 +1,14 @@
 ### Hi there, Im Owen👋
 
-Presentation
+### **Presentation** 
 
 Depuis que j'ai découvert l'informatique, j'ai été attiré et initié par le monde fascinant de la technologie. C'est grâce à divers idées de projet que je me suis lancé dans le developpement.
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OwenOps&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OwenOps&show_icons=true&theme=transparent" alt="GitHub Stats"/>
+</p>
 
 
 ### Tools :
@@ -25,6 +27,15 @@ Depuis que j'ai découvert l'informatique, j'ai été attiré et initié par le 
 <a href="https://www.linkedin.com/in/owen-rebeller-37161126b/"><img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 <a href="https://twitter.com/your-username/"><img align="left" alt="Twitter" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
+
+</br>
+</br>
+
+### Centres d'intérêts :
+
+- Serie, films, animés 🎥
+- La Musique 🎵
+- Le Sport 💪
 
 
 
