@@ -5,6 +5,11 @@
 Depuis que j'ai découvert l'informatique, j'ai été attiré et initié par le monde fascinant de la technologie. C'est grâce à divers idées de projet que je me suis lancé dans le developpement.
 
 <br />
+<div align="center"><h2>📈 Statistiques 📉</h2></div>
+<br />
+
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OwenOps&show_icons=true&theme=transparent" alt="GitHub Stats"/>
@@ -36,9 +41,3 @@ Depuis que j'ai découvert l'informatique, j'ai été attiré et initié par le 
 - Serie, films, animés 🎥
 - La Musique 🎵
 - Le Sport 💪
-
-
-
-
-
-          
