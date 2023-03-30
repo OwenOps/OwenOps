@@ -9,7 +9,7 @@ Depuis que j'ai découvert l'informatique, j'ai été attiré et initié par le 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OwenOps&theme=darcula&include_all_commits&count_private=true&show_icons=true" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=OwenOps&theme=darcula&count_private=true&show_icons=true" alt="GitHub stats">
 </p>
 
 
