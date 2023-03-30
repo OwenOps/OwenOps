@@ -9,11 +9,10 @@ Depuis que j'ai découvert l'informatique, j'ai été attiré et initié par le 
 <br />
 
 
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OwenOps&show_icons=true&theme=transparent" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OwenOps&theme=darcula&show_icons=true" alt="GitHub stats">
 </p>
+
 
 
 ### Tools :
