@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, Im Owen👋
 
 Presentation
 
-My name is Owen, 18 years old, ever since I was little, I got interested in computer science and am currently learning new things like programming or system. 🙂
+Depuis que j'ai découvert l'informatique, j'ai été attiré et initié par le monde fascinant de la technologie. C'est grâce à divers idées de projet que je me suis lancé dans le developpement.
 
 <br />
 
