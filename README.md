@@ -23,6 +23,8 @@ Depuis que j'ai découvert l'informatique, j'ai été attiré et initié par le 
 
 <br />
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 ### Contact Me:
 
 <a href="https://www.linkedin.com/in/owen-rebeller-37161126b/"><img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
