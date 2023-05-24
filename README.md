@@ -22,8 +22,13 @@ Depuis que j'ai découvert l'informatique, j'ai été attiré et initié par le 
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <br />
+<br />
+<br />
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/OwenOps/OwenOps/blob/output/github-contribution-grid-snake.gif)
+
+<br />
+<br />
 
 ### Contact Me:
 
