@@ -30,7 +30,7 @@ Depuis que j'ai découvert l'informatique, j'ai été attiré et initié par le 
 <br />
  
  ### Mes contributions :
-![snake animation](https://github.com/<seu OwenOps>/<seu OwenOps>/blob/output/github-contribution-grid-snake2.svg)
+<img alt="snake eating contributions" src="https://raw.githubusercontent.com/OwenOps/OwenOps/output/github-contribution-grid-snake.svg" />
 
 <br />
 <br />
