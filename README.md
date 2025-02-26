@@ -39,7 +39,6 @@ Depuis que j'ai découvert l'informatique, j'ai été attiré et initié par le 
 ### Contact Me:
 
 <a href="https://www.linkedin.com/in/owen-rebeller-37161126b/"><img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<a href="https://steamcommunity.com/profiles/76561198857582544">Steam</a>
 
 </br>
 </br>
