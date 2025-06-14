@@ -13,7 +13,6 @@ Since my first steps in computer science, I’ve been captivated by the fascinat
   <img src="https://github-readme-stats.vercel.app/api?username=OwenOps&show_icons=true&theme=darcula&include_all_commits=true&count_private=true&langs_count=5&hide=stars" alt="OwenOps GitHub Stats">
 </p>
 
-<br />
 
 <div align="center"><h2>⚙️ Stack</h2></div>
 <br />
@@ -49,15 +48,19 @@ Since my first steps in computer science, I’ve been captivated by the fascinat
 
 <br />
 
+<div align="center"><h2>📊 Most Used Languages</h2></div>
+<br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwenOps&layout=compact&theme=darcula&langs_count=6&hide=css,scss,shell,html" alt="Most Used Languages">
+</p>
 
 <div align="center"><h2>📈 Contributions</h2></div>
 <br />
 
 <p align="center">
-  <img alt="GitHub Activity Snake" src="https://raw.githubusercontent.com/OwenOps/OwenOps/output/github-contribution-grid-snake.svg" />
+ <img alt="github-snake-dark" src="https://github.com/OwenOps/OwenOps/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&background=000000" />
 </p>
-
-<br />
 
 <div align="center"><h2>📬 Contact</h2></div>
 <br />
