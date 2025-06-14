@@ -66,7 +66,7 @@ Since my first steps in computer science, I’ve been captivated by the fascinat
 <br />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/owen-rebeller-37161126b/">
+  <a href="[https://www.linkedin.com/in/owen-rebeller-37161126b](https://www.linkedin.com/in/owen-rebeller)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
